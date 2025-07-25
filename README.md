@@ -1,16 +1,22 @@
-## Hi there 👋
+## Привет, меня зовут Артур 👋
 
-<!--
-**abukshenko/abukshenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐧 Я начинающий аналитик данных. 
+🔍 В поиске крутых проектов и работы мечты! 
 
-Here are some ideas to get you started:
+## Мои проекты
+  -[Учебные проекты](https://github.com/abukshenko/Educational-projects)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои Сертификаты
+  -[Сертификаты](https://github.com/abukshenko/Certificates)
+
+
+## Мои навыки
+- Языки: Python, SQL.
+- Инструменты: Tableau
+
+
+## 📫 Как связаться:
+
+**Имя:** [Артур Букшенко](https://github.com/abukshenko)  
+**Email:** [unitpro9111@gmail.com](mailto:unitpro9111@gmail.com)  
+**Telegram:** [@arturbukshenko](https://t.me/arturbukshenko) 
