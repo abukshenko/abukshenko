@@ -4,10 +4,10 @@
 🔍 В поиске крутых проектов и работы мечты! 
 
 ## Мои проекты
-  -[Учебные проекты](https://github.com/abukshenko/Educational-projects)
+- [Учебные проекты](https://github.com/abukshenko/Educational-projects)
 
 ## Мои Сертификаты
-  -[Сертификаты](https://github.com/abukshenko/Certificates)
+- [Сертификаты](https://github.com/abukshenko/Certificates)
 
 
 ## Мои навыки
